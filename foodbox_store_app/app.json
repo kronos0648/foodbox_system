@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "StoreFoodBox",
+    "slug": "StoreFoodBox",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/FoodBoxLogo.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.foodbox.storeFoodBox",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "package": "com.foodbox.storeFoodBox",
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/FoodBoxLogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "afc0612d-1b9d-465c-ac05-603f280c2e4f"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "mybatis-3-mapper.dtd">
+  
+ <mapper namespace="com.foodbox.server.mapper.StoreMapper">
+	 <!-- 가게 ID 중복 확인 -->
+	 <select id="idExist" parameterType="string" resultType="boolean">
+		select exists
+		(
+			select * from store
+			where store_id = #{store_id}
+		)
+	 </select>
+	 
+	 <!-- 가게 계정 등록 -->
+	 <insert id="register" parameterType="com.foodbox.server.data.StoreDTO">
+		insert into store(store_id, store_pw, store_name)
+		values (#{store_id}, #{store_pw}, #{store_name})
+	 </insert>
+	 
+	 <!-- 가게 로그인 -->
+	 <select id="login" parameterType="com.foodbox.server.data.LoginRequest" resultType="boolean">
+		select exists
+		(
+			select * from store
+			where store_id = #{id}
+			and store_pw = #{pw}
+		)
+	 </select>
+	 
+	 <!-- 기기 식별번호 확인 -->
+	 <select id="selectDevId" parameterType="Integer" resultType="Integer">
+		 select dev_id from orders
+		 where order_id = #{order_id} 
+	 </select>
+	 
+	 <!-- 주문을 요청한 소비자 아이디 확인 -->
+	 <select id="selectConsId" parameterType="Integer" resultType="String">
+		 select cons_id from orders
+		 where order_id = #{order_id} 
+	 </select>
+	 
+	<!-- 주문 식별 번호로 가게 아이디 확인 -->
+	<select id="selectStoreId" parameterType="Integer" resultType="String">
+		 select store_id
+		 from orders
+		 where order_id = #{order_id} 
+	 </select>
+	 
+	 <!-- 주문 식별 번호로 가게 이름 확인 -->
+	<select id="selectStoreName" parameterType="Integer" resultType="String">
+		 select (select store.store_name from store where store.store_id = orders.store_id) as store_name
+		 from orders
+		 where order_id = #{order_id} 
+	 </select>
+	 
+	 <!-- 기기 주문 할당 -->
+	 <update id="allocation" parameterType="com.foodbox.server.data.OrdersDTO">
+		update orders
+		set dev_id = #{dev_id}
+		where order_id = #{order_id}
+	 </update>
+	 
+	 <!-- 기기 주문 할당 해제 -->
+	 <update id="dismission" parameterType="Integer">
+		update orders
+		set dev_id = null
+		where order_id = #{order_id}
+	 </update>
+	 
+	 <!-- 배달 시작 안내 요청 -->
+	 <update id="start" parameterType="Integer">
+		update orders
+		set state = '1'
+		where order_id = #{order_id}
+	 </update>
+	 
+	 <!-- 배달 시작 안내 요청 -->
+	 <update id="done" parameterType="Integer">
+		update orders
+		set state = '2'
+		where order_id = #{order_id}
+	 </update>
+	 
+	 <!-- 주문 접수 목록 전송 -->
+	 <select id="getOrderList" parameterType="string" resultType="com.foodbox.server.data.OrdersDTO">
+		select
+		order_id,
+		dev_id,
+		cons_id,
+		state
+		from orders
+		where store_id = #{store_id}
+	 </select>
+	 
+	 <!-- 주문 접수 정보 전송 -->
+	 <select id="getOrderSpec" parameterType="int" resultType="com.foodbox.server.data.OrdersDTO">
+		 select * from orders where order_id = #{order_id}
+	 </select>
+ </mapper>
+ 

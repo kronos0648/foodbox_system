@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "mybatis-3-mapper.dtd">
+  
+ <mapper namespace="com.example.iot_hub.mapper.AppMapper">
+
+	<!-- 기기 주문 할당 및 해제 요청 -->
+	<update id="updateAlloc" parameterType="com.example.iot_hub.data.Device">
+		update device
+		set alloc = #{alloc}
+		where dev_id = #{dev_id}
+	</update>
+	
+	<!-- 기기 잠금 및 해제 요청 -->
+	<update id="updateLock" parameterType="com.example.iot_hub.data.Device">
+		update device
+		set `lock` = #{lock}
+		where dev_id = #{dev_id}
+	</update>
+	
+ </mapper>
+ 

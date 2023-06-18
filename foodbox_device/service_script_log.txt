@@ -1,0 +1,6290 @@
+Service Script Start...[2023. 06. 01. (목) 10:19:34 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 10:22:42 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 10:43:18 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 10:45:12 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 10:46:37 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+mac address not found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 14 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 15 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 16 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 11:17:16 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 11:18:19 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 01. (목) 15:38:04 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+CURL TRY : 3 / 5
+CURL RESULT : 7
+CURL TRY : 4 / 5
+CURL RESULT : 7
+CURL TRY : 5 / 5
+CURL RESULT : 7
+CURL TRY : 6 / 5
+CURL RESULT : 7
+CURL TRY : 7 / 5
+CURL RESULT : 7
+CURL TRY : 8 / 5
+CURL RESULT : 7
+CURL TRY : 9 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 17:59:05 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:02:17 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 02. (금) 18:04:33 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 02. (금) 18:01:41 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 02. (금) 18:01:42 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:12:45 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:17:43 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+CURL TRY : 3 / 5
+CURL RESULT : 7
+CURL TRY : 4 / 5
+CURL RESULT : 7
+CURL TRY : 5 / 5
+CURL RESULT : 7
+CURL TRY : 6 / 5
+CURL RESULT : 7
+CURL TRY : 7 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:20:48 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 02. (금) 18:18:43 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+                                                                                                                                                                                                                                                                                                                                                                                          Service Script Start...[2023. 06. 02. (금) 18:25:46 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 14 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 15 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 16 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 17 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 02. (금) 18:27:41 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:30:43 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+                                                                                                                                                                                        Service Script Start...[2023. 06. 02. (금) 18:31:25 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Found!
+Service Script Start...[2023. 06. 02. (금) 18:33:11 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:36:31 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 18:35:38 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 02. (금) 18:55:50 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 02. (금) 18:58:35 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 19:01:13 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+                                                                                                                                                                                                                                                                                                     Service Script Start...[2023. 06. 02. (금) 18:35:38 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 19:10:42 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 19:14:05 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+                                                                                                                                                                                                                                                                     Service Script Start...[2023. 06. 02. (금) 19:15:36 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 19:17:45 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 20:56:50 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 02. (금) 22:26:09 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 00:08:09 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 03. (토) 00:09:30 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 03. (토) 00:10:21 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 14 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 15 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 16 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 17 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 18 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 19 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 20 / 20
+Network Interface Not Found
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+CURL TRY : 3 / 5
+CURL RESULT : 7
+CURL TRY : 4 / 5
+CURL RESULT : 7
+CURL TRY : 5 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 03. (토) 00:12:06 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+                                                                                                                                                                                                                                                                                                   Service Script Start...[2023. 06. 03. (토) 00:13:26 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Service Script Start...[2023. 06. 03. (토) 00:14:01 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 00:15:37 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 00:26:57 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 00:29:22 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 00:30:47 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 03. (토) 00:32:13 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 03:23:12 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Setup Okay
+SetUp Status : True
+Battery Remaining :  99
+Try to Connect IoT Hub
+IoT Hub is Connected
+Message : 0/0
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining :  99
+Battery Remaining : Service Script Start...[2023. 06. 03. (토) 07:49:38 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 08:23:50 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 08:29:05 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 08:32:55 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Setup Okay
+SetUp Status : True
+Battery Remaining :  97
+Try to Connect IoT Hub
+IoT Hub is Connected
+Message : 0/0
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+WebSocket Error : Connection timed out
+IoT Hub is Connected
+Message : 1/1
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining : Service Script Start...[2023. 06. 03. (토) 18:27:56 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 19:53:48 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 20:19:06 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 20:22:39 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 03. (토) 20:27:02 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+CURL TRY : 3 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 20:30:02 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 20:47:19 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+Service Script Start...[2023. 06. 03. (토) 20:41:14 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 14 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 15 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 16 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 17 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 20:49:55 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 03. (토) 20:54:21 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+                                                                                                                          Service Script Start...[2023. 06. 03. (토) 20:57:49 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Setup Okay
+SetUp Status : True
+Battery Remaining :  77
+Try to Connect IoT Hub
+IoT Hub is Connected
+Message : 1/1
+Battery Remaining :  80
+Battery Remaining :  80
+Battery Remaining :  80
+Battery Remaining :  80
+Battery Remaining :  82
+Battery Remaining :  82
+Battery Remaining :  82
+Battery Remaining :  82
+Battery Remaining :  83
+Battery Remaining :  84
+Battery Remaining :  85
+Battery Remaining :  85
+Battery Remaining :  85
+Battery Remaining :  85
+Battery Remaining :  85
+Battery Remaining :  86
+Battery Remaining :  86
+Battery Remaining :  86
+Battery Remaining :  87
+Battery Remaining :  87
+Battery Remaining :  87
+Battery Remaining :  87
+Battery Remaining :  87
+Battery Remaining :  88
+Battery Remaining :  88
+Battery Remaining :  88
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  91
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  93
+Battery Remaining :  94
+Battery Remaining :  94
+Battery Remaining :  94
+Battery Remaining :  94
+Battery Remaining :  94
+Battery Remaining :  94
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  65407
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  96
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  97
+Battery Remaining :  59
+Battery Remaining :  54
+Battery Remaining :  54
+Battery Remaining :  54
+Battery Remaining :  52
+Battery Remaining :  820
+Battery Remaining :  49
+Battery Remaining :  49
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  46
+Battery Remaining :  42
+Battery Remaining :  42
+Battery Remaining :  42
+Battery Remaining :  42
+Battery Remaining :  38
+Battery Remaining :  38
+Battery Remaining :  38
+Battery Remaining :  38
+Battery Remaining :  38
+Battery Remaining :  38
+Battery Remaining :  36
+Battery Remaining :  36
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  30
+Battery Remaining :  29
+Battery Remaining :  29
+Battery Remaining :  29
+Battery Remaining :  29
+Battery Remaining :  28
+Battery Remaining :  28
+Battery Remaining :  26
+Battery Remaining :  26
+Battery Remaining :  26
+Battery Remaining :  26
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  20
+Battery Remaining :  18
+IoT Hub is DisConnected
+Close Status Code : 1001
+Close Message
+The web application is stopping
+Service Script Start...[2023. 06. 04. (일) 17:26:50 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Found!
+mac address not found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 14 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 15 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 16 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 17 / 20
+Network Interface Found!
+Service Script Start...[2023. 06. 04. (일) 17:29:22 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 04. (일) 17:33:38 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Found!
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 1 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 8 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+CURL TRY : 9 / 5
+CURL RESULT : 28
+CURL TRY : 8 / 5
+CURL RESULT : 28
+CURL TRY : 10 / 5
+CURL RESULT : 28
+CURL TRY : 9 / 5
+CURL RESULT : 28
+CURL TRY : 11 / 5
+CURL RESULT : 28
+CURL TRY : 10 / 5
+CURL RESULT : 28
+CURL TRY : 12 / 5
+CURL RESULT : 28
+CURL TRY : 11 / 5
+CURL RESULT : 28
+CURL TRY : 13 / 5
+CURL RESULT : 28
+CURL TRY : 12 / 5
+CURL RESULT : 28
+CURL TRY : 14 / 5
+CURL RESULT : 28
+CURL TRY : 13 / 5
+CURL RESULT : 28
+CURL TRY : 15 / 5
+CURL RESULT : 28
+CURL TRY : 14 / 5
+CURL RESULT : 28
+CURL TRY : 16 / 5
+CURL RESULT : 28
+Service Script Start...[2023. 06. 04. (일) 18:06:12 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+Service Script Start...[2023. 06. 04. (일) 18:08:48 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+Service Script Start...[2023. 06. 04. (일) 18:23:47 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Found!
+CURL TRY : 8 / 5
+CURL RESULT : 28
+CURL TRY : 1 / 5
+CURL RESULT : 28
+                                                                                                                                                                                                                                                                                Service Script Start...[2023. 06. 05. (월) 02:56:28 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 14 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 15 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+CURL TRY : 3 / 5
+CURL RESULT : 7
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+CURL TRY : 8 / 5
+CURL RESULT : 28
+CURL TRY : 9 / 5
+CURL RESULT : 28
+CURL TRY : 10 / 5
+CURL RESULT : 28
+CURL TRY : 11 / 5
+CURL RESULT : 28
+CURL TRY : 12 / 5
+CURL RESULT : 28
+CURL TRY : 13 / 5
+CURL RESULT : 28
+CURL TRY : 14 / 5
+CURL RESULT : 28
+CURL TRY : 15 / 5
+CURL RESULT : 28
+CURL TRY : 16 / 5
+CURL RESULT : 28
+Service Script Start...[2023. 06. 05. (월) 03:30:02 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 28
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+Service Script Start...[2023. 06. 05. (월) 03:45:27 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 28
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+                                                          Service Script Start...[2023. 06. 05. (월) 04:00:36 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 05. (월) 04:08:40 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 05. (월) 04:13:50 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+CURL TRY : 8 / 5
+CURL RESULT : 28
+Service Script Start...[2023. 06. 05. (월) 04:22:34 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 11 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 12 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 13 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 05. (월) 04:49:46 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+Service Script Start...[2023. 06. 05. (월) 04:59:24 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+CURL TRY : 8 / 5
+CURL RESULT : 28
+CURL TRY : 9 / 5
+CURL RESULT : 28
+CURL TRY : 10 / 5
+CURL RESULT : 28
+CURL TRY : 11 / 5
+CURL RESULT : 28
+CURL TRY : 12 / 5
+CURL RESULT : 28
+CURL TRY : 13 / 5
+CURL RESULT : 28
+CURL TRY : 14 / 5
+CURL RESULT : 28
+CURL TRY : 15 / 5
+CURL RESULT : 28
+CURL TRY : 16 / 5
+CURL RESULT : 28
+CURL TRY : 17 / 5
+CURL RESULT : 28
+CURL TRY : 18 / 5
+CURL RESULT : 28
+CURL TRY : 19 / 5
+CURL RESULT : 28
+CURL TRY : 20 / 5
+CURL RESULT : 28
+CURL TRY : 21 / 5
+CURL RESULT : 28
+CURL TRY : 22 / 5
+CURL RESULT : 28
+CURL TRY : 23 / 5
+CURL RESULT : 28
+CURL TRY : 24 / 5
+CURL RESULT : 28
+CURL TRY : 25 / 5
+CURL RESULT : 28
+CURL TRY : 26 / 5
+CURL RESULT : 28
+CURL TRY : 27 / 5
+CURL RESULT : 28
+CURL TRY : 28 / 5
+CURL RESULT : 28
+CURL TRY : 29 / 5
+CURL RESULT : 28
+CURL TRY : 30 / 5
+CURL RESULT : 28
+CURL TRY : 31 / 5
+CURL RESULT : 28
+CURL TRY : 32 / 5
+CURL RESULT : 28
+CURL TRY : 33 / 5
+CURL RESULT : 28
+CURL TRY : 34 / 5
+CURL RESULT : 28
+CURL TRY : 35 / 5
+CURL RESULT : 28
+CURL TRY : 36 / 5
+CURL RESULT : 28
+CURL TRY : 37 / 5
+CURL RESULT : 28
+CURL TRY : 38 / 5
+CURL RESULT : 28
+CURL TRY : 39 / 5
+CURL RESULT : 28
+CURL TRY : 40 / 5
+CURL RESULT : 28
+CURL TRY : 41 / 5
+CURL RESULT : 28
+CURL TRY : 42 / 5
+CURL RESULT : 28
+CURL TRY : 43 / 5
+CURL RESULT : 28
+CURL TRY : 44 / 5
+CURL RESULT : 28
+CURL TRY : 45 / 5
+CURL RESULT : 28
+CURL TRY : 46 / 5
+CURL RESULT : 28
+CURL TRY : 47 / 5
+CURL RESULT : 28
+CURL TRY : 48 / 5
+CURL RESULT : 28
+CURL TRY : 49 / 5
+CURL RESULT : 28
+CURL TRY : 50 / 5
+CURL RESULT : 28
+CURL TRY : 51 / 5
+CURL RESULT : 28
+CURL TRY : 52 / 5
+CURL RESULT : 28
+CURL TRY : 53 / 5
+CURL RESULT : 28
+CURL TRY : 54 / 5
+CURL RESULT : 28
+CURL TRY : 55 / 5
+CURL RESULT : 28
+CURL TRY : 56 / 5
+CURL RESULT : 28
+CURL TRY : 57 / 5
+CURL RESULT : 28
+CURL TRY : 58 / 5
+CURL RESULT : 28
+CURL TRY : 59 / 5
+CURL RESULT : 28
+CURL TRY : 60 / 5
+CURL RESULT : 28
+CURL TRY : 61 / 5
+CURL RESULT : 28
+CURL TRY : 62 / 5
+CURL RESULT : 28
+CURL TRY : 63 / 5
+CURL RESULT : 28
+CURL TRY : 64 / 5
+CURL RESULT : 28
+CURL TRY : 65 / 5
+CURL RESULT : 28
+CURL TRY : 66 / 5
+CURL RESULT : 28
+CURL TRY : 67 / 5
+CURL RESULT : 28
+CURL TRY : 68 / 5
+CURL RESULT : 28
+CURL TRY : 69 / 5
+CURL RESULT : 28
+CURL TRY : 70 / 5
+CURL RESULT : 28
+CURL TRY : 71 / 5
+CURL RESULT : 28
+CURL TRY : 72 / 5
+CURL RESULT : 28
+CURL TRY : 73 / 5
+CURL RESULT : 28
+CURL TRY : 74 / 5
+CURL RESULT : 28
+CURL TRY : 75 / 5
+CURL RESULT : 28
+CURL TRY : 76 / 5
+CURL RESULT : 28
+CURL TRY : 77 / 5
+CURL RESULT : 28
+CURL TRY : 78 / 5
+CURL RESULT : 28
+CURL TRY : 79 / 5
+CURL RESULT : 28
+CURL TRY : 80 / 5
+CURL RESULT : 28
+CURL TRY : 81 / 5
+CURL RESULT : 28
+CURL TRY : 82 / 5
+CURL RESULT : 28
+CURL TRY : 83 / 5
+CURL RESULT : 28
+CURL TRY : 84 / 5
+CURL RESULT : 28
+CURL TRY : 85 / 5
+CURL RESULT : 28
+CURL TRY : 86 / 5
+CURL RESULT : 28
+CURL TRY : 87 / 5
+CURL RESULT : 28
+CURL TRY : 88 / 5
+CURL RESULT : 28
+CURL TRY : 89 / 5
+CURL RESULT : 28
+CURL TRY : 90 / 5
+CURL RESULT : 28
+CURL TRY : 91 / 5
+CURL RESULT : 28
+CURL TRY : 92 / 5
+CURL RESULT : 28
+CURL TRY : 93 / 5
+CURL RESULT : 28
+                                   Service Script Start...[2023. 06. 05. (월) 11:41:21 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 7
+CURL TRY : 2 / 5
+CURL RESULT : 28
+CURL TRY : 3 / 5
+CURL RESULT : 28
+CURL TRY : 4 / 5
+CURL RESULT : 28
+CURL TRY : 5 / 5
+CURL RESULT : 28
+CURL TRY : 6 / 5
+CURL RESULT : 28
+CURL TRY : 7 / 5
+CURL RESULT : 28
+CURL TRY : 8 / 5
+CURL RESULT : 28
+CURL TRY : 9 / 5
+CURL RESULT : 28
+CURL TRY : 10 / 5
+CURL RESULT : 28
+CURL TRY : 11 / 5
+CURL RESULT : 28
+CURL TRY : 12 / 5
+CURL RESULT : 28
+CURL TRY : 13 / 5
+CURL RESULT : 28
+CURL TRY : 14 / 5
+CURL RESULT : 28
+CURL TRY : 15 / 5
+CURL RESULT : 28
+CURL TRY : 16 / 5
+CURL RESULT : 28
+CURL TRY : 17 / 5
+CURL RESULT : 28
+CURL TRY : 18 / 5
+CURL RESULT : 28
+CURL TRY : 19 / 5
+CURL RESULT : 28
+CURL TRY : 20 / 5
+CURL RESULT : 28
+CURL TRY : 21 / 5
+CURL RESULT : 28
+CURL TRY : 22 / 5
+CURL RESULT : 28
+CURL TRY : 23 / 5
+CURL RESULT : 28
+CURL TRY : 24 / 5
+CURL RESULT : 28
+CURL TRY : 25 / 5
+CURL RESULT : 28
+CURL TRY : 26 / 5
+CURL RESULT : 28
+CURL TRY : 27 / 5
+CURL RESULT : 28
+CURL TRY : 28 / 5
+CURL RESULT : 28
+CURL TRY : 29 / 5
+CURL RESULT : 28
+CURL TRY : 30 / 5
+CURL RESULT : 28
+CURL TRY : 31 / 5
+CURL RESULT : 28
+CURL TRY : 32 / 5
+CURL RESULT : 28
+CURL TRY : 33 / 5
+CURL RESULT : 28
+CURL TRY : 34 / 5
+CURL RESULT : 28
+CURL TRY : 35 / 5
+CURL RESULT : 28
+CURL TRY : 36 / 5
+CURL RESULT : 28
+CURL TRY : 37 / 5
+CURL RESULT : 28
+CURL TRY : 38 / 5
+CURL RESULT : 28
+CURL TRY : 39 / 5
+CURL RESULT : 28
+CURL TRY : 40 / 5
+CURL RESULT : 7
+CURL TRY : 41 / 5
+CURL RESULT : 7
+CURL TRY : 42 / 5
+CURL RESULT : 7
+CURL TRY : 43 / 5
+CURL RESULT : 7
+CURL TRY : 44 / 5
+CURL RESULT : 7
+CURL TRY : 45 / 5
+CURL RESULT : 7
+CURL TRY : 46 / 5
+CURL RESULT : 7
+CURL TRY : 47 / 5
+CURL RESULT : 7
+CURL TRY : 48 / 5
+CURL RESULT : 7
+CURL TRY : 49 / 5
+CURL RESULT : 7
+CURL TRY : 50 / 5
+CURL RESULT : 7
+CURL TRY : 51 / 5
+CURL RESULT : 7
+CURL TRY : 52 / 5
+CURL RESULT : 7
+CURL TRY : 53 / 5
+CURL RESULT : 7
+CURL TRY : 54 / 5
+CURL RESULT : 7
+CURL TRY : 55 / 5
+CURL RESULT : 7
+CURL TRY : 56 / 5
+CURL RESULT : 7
+CURL TRY : 57 / 5
+CURL RESULT : 7
+CURL TRY : 58 / 5
+CURL RESULT : 7
+CURL TRY : 59 / 5
+CURL RESULT : 7
+CURL TRY : 60 / 5
+CURL RESULT : 7
+CURL TRY : 61 / 5
+CURL RESULT : 7
+CURL TRY : 62 / 5
+CURL RESULT : 7
+CURL TRY : 63 / 5
+CURL RESULT : 7
+CURL TRY : 64 / 5
+CURL RESULT : 7
+CURL TRY : 65 / 5
+CURL RESULT : 7
+CURL TRY : 66 / 5
+CURL RESULT : 7
+CURL TRY : 67 / 5
+CURL RESULT : 7
+CURL TRY : 68 / 5
+CURL RESULT : 7
+CURL TRY : 69 / 5
+CURL RESULT : 7
+CURL TRY : 70 / 5
+CURL RESULT : 7
+CURL TRY : 71 / 5
+CURL RESULT : 7
+CURL TRY : 72 / 5
+CURL RESULT : 7
+CURL TRY : 73 / 5
+CURL RESULT : 7
+CURL TRY : 74 / 5
+CURL RESULT : 7
+CURL TRY : 75 / 5
+CURL RESULT : 7
+CURL TRY : 76 / 5
+CURL RESULT : 7
+CURL TRY : 77 / 5
+CURL RESULT : 7
+CURL TRY : 78 / 5
+CURL RESULT : 7
+CURL TRY : 79 / 5
+CURL RESULT : 7
+CURL TRY : 80 / 5
+CURL RESULT : 7
+CURL TRY : 81 / 5
+CURL RESULT : 7
+CURL TRY : 82 / 5
+CURL RESULT : 7
+CURL TRY : 83 / 5
+CURL RESULT : 7
+CURL TRY : 84 / 5
+CURL RESULT : 7
+CURL TRY : 85 / 5
+CURL RESULT : 7
+CURL TRY : 86 / 5
+CURL RESULT : 7
+CURL TRY : 87 / 5
+CURL RESULT : 7
+CURL TRY : 88 / 5
+CURL RESULT : 7
+CURL TRY : 89 / 5
+CURL RESULT : 7
+CURL TRY : 90 / 5
+CURL RESULT : 7
+CURL TRY : 91 / 5
+CURL RESULT : 7
+CURL TRY : 92 / 5
+CURL RESULT : 7
+CURL TRY : 93 / 5
+CURL RESULT : 7
+CURL TRY : 94 / 5
+CURL RESULT : 7
+CURL TRY : 95 / 5
+CURL RESULT : 7
+CURL TRY : 96 / 5
+CURL RESULT : 7
+CURL TRY : 97 / 5
+CURL RESULT : 7
+CURL TRY : 98 / 5
+CURL RESULT : 7
+CURL TRY : 99 / 5
+CURL RESULT : 7
+CURL TRY : 100 / 5
+CURL RESULT : 7
+FINAL CURL RES = 7
+
+
+
+IoT HUB STATUS IS NOT OKAY...LET'S EXIT
+Service Script Start...[2023. 06. 05. (월) 13:19:49 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+
+Service Script Start...[2023. 06. 05. (월) 15:27:59 KST]
+LET'S CHECK THE BATTERY STATUS
+BATTERY REMAINS OVER 25%... LET'S CHECK THE NETWORK STATUS
+
+
+
+Network Detection Trial 1 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 2 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 3 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 4 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 5 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 6 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 7 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 8 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 9 / 20
+Network Interface Not Found
+
+
+
+Network Detection Trial 10 / 20
+Network Interface Found!
+CURL TRY : 1 / 5
+CURL RESULT : 0
+FINAL CURL RES = 0
+IoT Hub STATUS IS OKAY...LET'S EXECUTE THE PROCESS
+
+
+

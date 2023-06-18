@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FoodBox",
+    "slug": "foodbox",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/foodboxIcon.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "y"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/foodboxIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.danielgenius98.FoodBox"
+    },
+    "web": {
+      "favicon": "./assets/foodbox.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5672057d-7f7f-4f13-ac0a-f3a0347790eb"
+      }
+    },
+    "owner": "danielgenius98"
+  }
+}

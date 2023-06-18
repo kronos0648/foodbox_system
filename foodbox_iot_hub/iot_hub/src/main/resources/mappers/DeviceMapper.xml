@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "mybatis-3-mapper.dtd">
+  
+ <mapper namespace="com.example.iot_hub.mapper.DeviceMapper">
+	<!-- 허브 연결 -->
+	<select id="deviceForInit" parameterType = "Integer" resultType="com.example.iot_hub.data.Device">
+		select alloc, `lock` from device where dev_id = #{dev_id}
+	</select>
+	
+	<!-- 배터리 잔량 정보 전송 -->
+	<update id="updateBattery" parameterType="com.example.iot_hub.data.Device">
+		update device
+		set battery = #{battery}
+		where dev_id = #{dev_id}
+	</update>
+	
+	<!-- 기기 위치 정보 전송 -->
+	<update id="updateLocation" parameterType="com.example.iot_hub.data.Device">
+		update device
+		set latitude = #{latitude}, longitude=#{longitude}
+		where dev_id = #{dev_id}
+	</update>
+</mapper>
